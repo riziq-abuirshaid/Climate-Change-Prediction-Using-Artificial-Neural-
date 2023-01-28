@@ -1,2 +1,4 @@
 a prediction system using a Deep Learning Weather Prediction model that predicts seven variables to compare future weather 
 with old weather data to determine climate change. This model uses Artificial Neural Network (ANN) to produce forecasts.
+irbid dataset is not used.
+not all datasets have the same time intervals. 
